@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Aline M. Gracia
+# 👋 Olá! Eu sou a Aline M. Garcia
 
 🎯 Analista de QA Sênior | Foco em qualidade de software, testes automatizados e cultura de excelência
 
