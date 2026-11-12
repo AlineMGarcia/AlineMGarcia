@@ -29,7 +29,7 @@ Automação de testes End-to-End (E2E) com Cypress e TypeScript para uma platafo
 
 Atuação na validação de fluxos de autenticação, integrações com APIs, regras de negócio e funcionalidades da aplicação.
 
-**Tecnologias:** Cypress, TypeScript, C# / .NET 8, Amazon DynamoDB, Docker, LocalStack, Keycloak, SAML e JWT.
+**Tecnologias:** Cypress, TypeScript, C# / .NET 10, Amazon DynamoDB, Docker, LocalStack, Keycloak, SAML e JWT.
 
 🔹 **Tô Segurado** 
 
