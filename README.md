@@ -11,7 +11,7 @@ Sou apaixonada por garantir que produtos funcionem como devem — com qualidade,
 - **Automação de Testes:** Cypress
 - **Linguagens:** JavaScript, TypeScript
 - **Frameworks:** Angular, Next.js
-- **Backend:** C# / .NET 8
+- **Backend:** C# / .NET 10
 - **Banco de Dados:** Amazon DynamoDB
 - **Autenticação:** SAML, JWT, Keycloak
 - **Infraestrutura e Ambiente Local:** Docker, LocalStack
